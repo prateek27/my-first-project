@@ -6,4 +6,7 @@ I am an experimental feature.
 		User uid;
 		...
 	}
+
+	ShoppingCart sc = new Cart();
+	sc.display();
 ```
